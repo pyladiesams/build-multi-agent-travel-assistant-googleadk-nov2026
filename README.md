@@ -1,8 +1,10 @@
-# { WORKSHOP NAME } 
+# Build a Multi-Agent Travel Assistant with Google ADK 
 ### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+In this hands-on workshop, participants will use Google ADK to build a travel assistant powered by multiple agents. We’ll explore how agents can work together, and how to give LLMs room to be creative while guiding them toward the task and outcomes you have in mind.
+
+The workshop looks at moving beyond a single open-ended prompt towards agent workflows that are more structured and dependable. Participants will get practical experience shaping these workflows and a clearer sense of how to balance flexibility with control.
 
 ## Requirements
 * PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
@@ -38,7 +40,7 @@ After you have specified the Python version, you can create a virtual environmen
 Re-watch [this YouTube stream](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and @blutab
 
 ## Appendix
 ### Pre-Commit Hooks
