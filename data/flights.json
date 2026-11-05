@@ -1,0 +1,16 @@
+{
+  "amsterdam": {
+    "barcelona": [
+      {
+        "airline": "Vueling",
+        "depart": "07:05",
+        "price_eur": 95
+      },
+      {
+        "airline": "KLM",
+        "depart": "12:30",
+        "price_eur": 180
+      }
+    ]
+  }
+}

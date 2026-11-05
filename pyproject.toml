@@ -1,12 +1,20 @@
 [project]
-name = "workshoptopic-mmmyyyy"
+name = "build-multi-agent-travel-assistant-googleadk-nov2026"
 version = "0.1.0"
-description = "Add your description here"
+description = "PyLadies Amsterdam workshop: build a more reliable multi-agent travel assistant with Google ADK"
 readme = "README.md"
-requires-python = ">=3.8"
-dependencies = []
+requires-python = ">=3.11"
+dependencies = [
+    "google-adk==2.13.0",
+]
 
 [tool.uv]
+package = false
 dev-dependencies = [
     "pre-commit>=3.5.0",
 ]
+
+[tool.ruff.lint.per-file-ignores]
+# ADK needs `from . import agent`, and starter imports are unused until the TODOs are done.
+"__init__.py" = ["F401"]
+"workshop/*/agent.py" = ["F401"]

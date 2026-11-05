@@ -1,0 +1,22 @@
+{
+  "barcelona": [
+    {
+      "name": "Mar Azul Beach Resort",
+      "price_per_night": 115,
+      "fees_per_night": 45,
+      "highlights": "Beachfront, rooftop pool, spa"
+    },
+    {
+      "name": "Hotel Gràcia",
+      "price_per_night": 85,
+      "fees_per_night": 10,
+      "highlights": "Quiet neighbourhood, 20 min by metro to the beach"
+    },
+    {
+      "name": "Rambla Hostel",
+      "price_per_night": 40,
+      "fees_per_night": 5,
+      "highlights": "Shared dorms, very central"
+    }
+  ]
+}
