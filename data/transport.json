@@ -1,0 +1,20 @@
+{
+  "barcelona": [
+    {
+      "option": "Aerobús airport shuttle",
+      "price_eur": 7.25
+    },
+    {
+      "option": "Metro T-casual (10 trips)",
+      "price_eur": 12.15
+    },
+    {
+      "option": "Bicing city bikes (day pass)",
+      "price_eur": 5
+    },
+    {
+      "option": "Taxi from the airport",
+      "price_eur": 35
+    }
+  ]
+}

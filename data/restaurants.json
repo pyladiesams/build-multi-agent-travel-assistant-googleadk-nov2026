@@ -1,0 +1,24 @@
+{
+  "barcelona": [
+    {
+      "name": "Mercat de la Boqueria",
+      "type": "food market",
+      "avg_price_eur": 15
+    },
+    {
+      "name": "La Cova Fumada",
+      "type": "tapas bar",
+      "avg_price_eur": 20
+    },
+    {
+      "name": "Chiringuito del Mar",
+      "type": "beach bar",
+      "avg_price_eur": 30
+    },
+    {
+      "name": "Disfrutar",
+      "type": "fine dining",
+      "avg_price_eur": 250
+    }
+  ]
+}
