@@ -1,5 +1,5 @@
 # Build a Multi-Agent Travel Assistant with Google ADK
-### Presentation: shared on the day of the workshop
+### Presentation: [workshop slides (PDF)](workshop/build-multi-agent-travel-assistant-googleadk-nov2026.pdf) · [PowerPoint](workshop/build-multi-agent-travel-assistant-googleadk-nov2026.pptx)
 
 ## Workshop description
 In this hands-on workshop, participants will use Google ADK to build a travel assistant powered by multiple agents. We’ll explore how agents can work together, and how to give LLMs room to be creative while guiding them toward the task and outcomes you have in mind.
@@ -106,7 +106,7 @@ uv sync                           # or: pip install -r requirements.txt
 | 3 | [A team with a fixed order](workshop/ex3_fixed_order/README.md) | `workshop/ex3_fixed_order/` | `solutions/ex3_fixed_order/` |
 | 4 | [Capstone: the front desk](workshop/ex4_front_desk/README.md) | `workshop/ex4_front_desk/` | `solutions/ex4_front_desk/` |
 
-[CHEATSHEET.md](CHEATSHEET.md) has every pattern from today on one page.
+[CHEATSHEET.md](CHEATSHEET.md) has every pattern from today on one page. For topics we didn't cover, see [WANT_MORE.md](WANT_MORE.md).
 
 To run a solution, use `adk web solutions`. After changing code, restart `adk web` and start a new session.
 
